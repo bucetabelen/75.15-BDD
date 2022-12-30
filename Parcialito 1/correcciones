@@ -1,0 +1,7 @@
+	
+Nota Final:  8
+- Falta registrar cuando un producto se sintetiza en base a otros (y como es la formula de la composicion)
+- En "tiene" entre envio y producto tambien indicar la cantidad enviada, como para poder saber cuando falta enviar de lo vendido en una orden de venta
+- Si envio es debil (el id esta subrayado punteado con lo que pareciera ser un discriminante) hay que indicarlo con doble rectangulo y doble linea hacia el tipo de entidad fuerte que precisa para identificarse
+- Aclaracion: Cumplir la nomenclatura pedida del archivo (apellido y padron en el nombre)
+- Aclaracion: Cumplir el formato pedido (PDF)
