@@ -1,0 +1,9 @@
+	
+1) B
+2) B
+3) B-
+En R2 falta CG->B proyectada, clave (ADG)
+4) R-
+Tenes mucha redundancia. Por ejemplo dado que NS->CS no debes poner NS->DJ si ya tenes CS->DJ
+La direccion de la sucursal quedo sin dependencias. Deberia estar CS->DS
+Falta DJ->NJ
