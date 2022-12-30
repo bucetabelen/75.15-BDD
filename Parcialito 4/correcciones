@@ -1,0 +1,12 @@
+	
+a) B
+
+b) R (en el primer WHERE se consulta que esté en 71.15 o 71.14 pero no necesariamente en ambas, el count no es suficiente ya que podría haber más de una nota para la misma materia)
+
+c) B (no es necesario el join con carreras y departamentos ya que la información necesaria está disponible en inscripto_en y notas)
+
+d) B (cuidado con count(*) de valores nulos)
+
+e) B
+
+f) B
